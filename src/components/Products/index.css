@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.ProdCon {
+  display: flex;
+  height: 90vh;
+  justify-content: center;
+  align-items: center;
+}
+.pro {
+  width: 20%;
+}
